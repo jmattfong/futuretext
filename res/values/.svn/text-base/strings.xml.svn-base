@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Future Text</string>
+    <string name="version">Version 1.0.1</string>
+	<string name="repetition_prompt">Repetition</string>
+    <string-array name="repetition_array">
+        <item>Do not repeat</item>
+        <item>Daily</item>
+        <item>Every Weekday (Mon-Fri)</item>
+        <item>Weekly</item>
+        <item>Monthly (on day)</item>
+        <item>Monthly (on date)</item>
+        <item>Yearly</item>
+    </string-array>
+    <string name="btn_new_message">New Future Text</string>
+    <string name="list_empty">There are no saved Future Texts.</string>
+    
+    <string name="contact_prompt">To: </string>
+    <string name="contact_hint">To </string>
+    <string name="message_hint">Enter message here.</string>
+    <string name="time_prompt">Time to Send</string>
+    
+    <string name="menu_edit">Edit</string>
+	<string name="menu_delete">Delete</string>
+	<string name="menu_history">History</string>
+	<string name="menu_view">View</string>
+	<string name="menu_clear">Clear History</string>
+	<string name="menu_about">About</string>
+	<string name="contact_button">+</string>
+	
+	<string name ="history_text">HISTORY</string>
+	<string name="hist_empty">There are no past Future Texts to display.</string>
+	
+	<string name ="not_sent">MESSAGE NOT SENT</string>
+	
+	<string name ="about">Future Text is a free, open source app. If you like it,
+						please consider donating to support the development of more
+						free apps. For more info, please visit our website. 
+						Thank you for using Future Text!</string>
+	<string name="website"><u>http://www.organforce.com</u></string>
+	<string name="donate_website">http://www.organforce.appspot.com/donate</string>
+	<string name="donate_market">http://www.android.com</string>
+	<string name ="donate">Donate through: </string>
+</resources>
